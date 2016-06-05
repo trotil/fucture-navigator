@@ -1,0 +1,4 @@
+<a [href]="navigationItem.link" [title]="navigationItem.title" [target]="navigationItem.openInNewTab ? '_blank' : ''">
+    <img *ngIf="navigationItem.iconSrc" [width]="navigationItem.iconWidth" [height]="navigationItem.iconHeight" [src]="navigationItem.iconSrc" />
+    {{navigationItem.title}}
+</a>

@@ -1,0 +1,27 @@
+{
+  "name": "fucture-navigator",
+  "version": "1.0.0",
+  "description": "fucture navigator is Angular 2 module for creating navigation bar of your website. It simplifies and abstracts common scenarios used when creating navigation bars for websites.",
+  "main": "fucture-navigator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trotil/fucture-navigator.git"
+  },
+  "keywords": [
+    "Fucture",
+    "Navigator",
+    "Fucture-Navigator",
+    "Angular2",
+    "Navigation",
+    "Bar"
+  ],
+  "author": "Matas Ubarevicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trotil/fucture-navigator/issues"
+  },
+  "homepage": "https://github.com/trotil/fucture-navigator#readme"
+}
